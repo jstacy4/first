@@ -1,1 +1,8 @@
 Temp
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.exe
+*.userprefs
+*_Data
